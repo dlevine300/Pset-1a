@@ -1,0 +1,46 @@
+body {
+  background-color: lightgreen;
+}
+p1 { color: red; }
+h1{
+background: grey;
+}
+h2{
+background: lightgrey;
+}
+h3{
+background: lightblue;
+}
+.font{ 
+  font-weight: bold;
+}
+.font2{
+  font-weight: bold;
+}
+.font3{
+  font-weight: 900;
+}
+#first_paragraph{
+  color: green;
+}
+#second_paragraph{
+  color: green;
+}
+#third_paragraph{
+  color: green;
+}
+#fourth_paragraph{
+  color: green;
+}
+#fifth_paragraph{
+  color: green;
+}
+p[lang]{
+  color: red;
+}
+ul3::first-line {
+  color: orange;
+}
+div li{
+  color: red;
+}
